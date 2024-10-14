@@ -11,4 +11,4 @@ Esse projeto de site sobre a "Agenda Full Stack", idealizado pelo professor de W
 # LInk pra baixar os arquivos do site (via google drive):
 https://drive.google.com/file/d/1GMgnUB2qMwDriVf_q6GXnrvYHtEg2ahd/view?usp=sharing
 
-# Link do PDF com o tutorial de como foi feito site (via google drive):
+# Link do PDF com o tutorial de como foi feito o site (via google drive):
